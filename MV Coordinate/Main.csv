@@ -1,0 +1,20 @@
+
+
+Polygon 	Angle	    Polygon Index 	Sorted Angle
+Index	     	            Post Sorting	
+1)		90		4) 		   45
+2)		111.801		5) 		   59.0363
+3)		116.565		6) 		   74.0546
+4)		45		1) 		   90
+5)		59.0363		2) 		   111.801
+6)		74.0546		3) 		   116.565
+
+
+Index	       MV Coordinates		MV Coordinates       Sorted Index:
+                                        Post Sorting
+1)		  30.7527			  30.7527			4
+2)		  6.36275			  6.36275			5
+3)		  5.43504			  5.43504			6
+4)		  6.91595			  6.91595			1
+5)		  6.32884			  6.32884			2
+6)		  44.2047			  44.2047			3

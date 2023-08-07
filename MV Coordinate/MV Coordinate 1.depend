@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1614270515 source:e:\kaam\mv coordinates\mv coordinate 1\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<fstream>
+	<string>
+
+1614500484 source:e:\mv coordinates\mv coordinate 1\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<fstream>
+	<string>
+

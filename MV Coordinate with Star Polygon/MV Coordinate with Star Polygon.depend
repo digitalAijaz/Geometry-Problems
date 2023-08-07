@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617558829 source:e:\geometry problems\mv coordinate with star polygon\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<fstream>
+	<string>
+	<iomanip>
+
